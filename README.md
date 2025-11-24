@@ -150,17 +150,7 @@ smart-contract/ (Planned)
 
 No environment variables currently required for frontend development.
 
-## Installation & Development
-
-```bash
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-The application will be available at the configured port (typically 5000).
+ 
 
 ## Massa Wallet Setup
 
