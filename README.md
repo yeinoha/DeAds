@@ -203,27 +203,7 @@ To use the platform, you need a Massa wallet:
 
 ## Next Steps
 
-### Phase 2: Smart Contracts & Backend
-1. Create `smart-contract/` folder with AssemblyScript setup
-2. Implement smart contracts:
-   - Ad registry and metadata storage
-   - Escrow system for budget management
-   - Impression/click tracking with fraud prevention
-   - Autonomous Smart Contract for daily payouts
-   - Reputation scoring system
-3. Build backend API:
-   - File upload endpoints for ad images/videos
-   - Ad metadata aggregation
-   - Analytics data collection
-4. Database setup with PostgreSQL
-
-### Phase 3: Integration & Testing
-1. Connect frontend to Massa blockchain via wallet provider
-2. Implement smart contract calls for all operations
-3. Add real-time updates and transaction confirmations
-4. End-to-end testing of user journeys
-5. Performance optimization
-6. Production deployment
+ 
 
 ## Design Philosophy
 
